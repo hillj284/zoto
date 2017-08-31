@@ -1,1 +1,3 @@
-# zoto
+# Zoto Repository
+
+Zoto Inc
